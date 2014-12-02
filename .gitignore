@@ -20,4 +20,4 @@ bin/
 test-output
 
 #Other
-
+.*.swp

@@ -13,7 +13,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath group: 'pl.allegro.tech.build', name: 'axion-release-plugin', version: '0.9.9'
+        classpath group: 'pl.allegro.tech.build', name: 'axion-release-plugin', version: '0.9.4'
     }
 }
 
