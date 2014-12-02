@@ -17,7 +17,8 @@ buildscript {
     }
 }
 
-apply plugin: 'pl.allegro.tech.build.axion-release'
+//apply plugin: 'pl.allegro.tech.build.axion-release'
+apply plugin: 'axion-release'
 
 // configure version
 scmVersion {
